@@ -1,0 +1,13 @@
+body{
+    font-family: Calibri; 
+    color: white; 
+    background-color: black; 
+    text-align: center;
+}
+h1{
+    margin-top: 50px;
+    font-size: 60px;
+    padding: 5px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+}
